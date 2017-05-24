@@ -1,5 +1,5 @@
 <?php 
-include 'view/berandaUI.php';
+include 'view/BerandaUI.php';
 
 $brd = new berandaUI();
 
